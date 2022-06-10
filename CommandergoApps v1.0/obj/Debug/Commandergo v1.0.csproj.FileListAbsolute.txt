@@ -1,0 +1,15 @@
+C:\Users\Emile Landerretche\OneDrive\Archives\Documents\command'ergo\Appli\Commandergo v1.0\bin\Debug\Commandergo v1.0.exe.config
+C:\Users\Emile Landerretche\OneDrive\Archives\Documents\command'ergo\Appli\Commandergo v1.0\bin\Debug\Commandergo v1.0.exe
+C:\Users\Emile Landerretche\OneDrive\Archives\Documents\command'ergo\Appli\Commandergo v1.0\bin\Debug\Commandergo v1.0.pdb
+C:\Users\Emile Landerretche\OneDrive\Archives\Documents\command'ergo\Appli\Commandergo v1.0\obj\Debug\Commandergo v1.0.csproj.AssemblyReference.cache
+C:\Users\Emile Landerretche\OneDrive\Archives\Documents\command'ergo\Appli\Commandergo v1.0\obj\Debug\MainWindow.g.cs
+C:\Users\Emile Landerretche\OneDrive\Archives\Documents\command'ergo\Appli\Commandergo v1.0\obj\Debug\App.g.cs
+C:\Users\Emile Landerretche\OneDrive\Archives\Documents\command'ergo\Appli\Commandergo v1.0\obj\Debug\Commandergo v1.0_MarkupCompile.cache
+C:\Users\Emile Landerretche\OneDrive\Archives\Documents\command'ergo\Appli\Commandergo v1.0\obj\Debug\Commandergo v1.0_MarkupCompile.lref
+C:\Users\Emile Landerretche\OneDrive\Archives\Documents\command'ergo\Appli\Commandergo v1.0\obj\Debug\MainWindow.baml
+C:\Users\Emile Landerretche\OneDrive\Archives\Documents\command'ergo\Appli\Commandergo v1.0\obj\Debug\Commandergo v1.0.g.resources
+C:\Users\Emile Landerretche\OneDrive\Archives\Documents\command'ergo\Appli\Commandergo v1.0\obj\Debug\Commandergo_v1._0.Properties.Resources.resources
+C:\Users\Emile Landerretche\OneDrive\Archives\Documents\command'ergo\Appli\Commandergo v1.0\obj\Debug\Commandergo v1.0.csproj.GenerateResource.cache
+C:\Users\Emile Landerretche\OneDrive\Archives\Documents\command'ergo\Appli\Commandergo v1.0\obj\Debug\Commandergo v1.0.csproj.CoreCompileInputs.cache
+C:\Users\Emile Landerretche\OneDrive\Archives\Documents\command'ergo\Appli\Commandergo v1.0\obj\Debug\Commandergo v1.0.exe
+C:\Users\Emile Landerretche\OneDrive\Archives\Documents\command'ergo\Appli\Commandergo v1.0\obj\Debug\Commandergo v1.0.pdb

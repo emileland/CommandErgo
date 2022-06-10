@@ -1,0 +1,80 @@
+1: keyA
+2: keyB
+3: keyC
+4: keyD
+5: keyE
+6: keyF
+7: keyG
+8: keyH
+9: keyI
+10: keyJ
+11: keyK
+12: keyL
+13: keyM
+14: keyN
+15: keyO
+16: keyP
+17: keyQ
+18: keyR
+19: keyS
+20: keyT
+21: keyU
+22: keyV
+23: keyW
+24: keyX
+25: keyY
+26: keyZ
+27: key0
+28: key1
+29: key2
+30: key3
+31: key4
+32: key5
+33: key6
+34: key7
+35: key8
+36: key9
+37: keypad 0
+38: keypad 1
+39: keypad 2
+40: keypad 3
+41: keypad 4
+42: keypad 5
+43: keypad 6
+44: keypad 7
+45: keypad 8
+46: keypad 9
+47: espace
+48: echap
+49: verr maj
+50: tab
+51: entrée
+52: suppr
+53: backspace
+54: ctrl gauche
+55: ctrl droite
+56: maj gauche
+57: maj droite
+58: alt
+59: alt gr
+60: fleche haut
+61: fleche bas
+62: fleche gauche
+63: fleche droite
+64: clic gauche
+65: clic droit
+66: clic molette
+67: sensi souris +
+68: sensi souris -
+69: f1
+70: f2
+71: f3
+72: f4
+73: f5
+74: f6
+75: f7
+76: f8
+77: f9
+78: f10
+79: f11
+80: f12

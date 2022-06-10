@@ -1,0 +1,84 @@
+const int correspondant[]
+{
+  "",
+  61444,//keyA
+  61445,//keyB
+  61446,//keyC
+  61447,//keyD
+  61448,//keyE
+  61449,//keyF
+  61450,//keyG
+  61451,//keyH
+  61452,//keyI
+  61453,//keyJ
+  61454,//keyK
+  61455,//keyL
+  61456,//keyM
+  61457,//keyN
+  61458,//keyO
+  61459,//keyP
+  61460,//keyQ
+  61461,//keyR
+  61462,//keyS
+  61463,//keyT
+  61464,//keyU
+  61465,//keyV
+  61466,//keyW
+  61467,//keyX
+  61468,//keyY
+  61469,//keyZ
+  61479,//Key0
+  61470,//key1
+  61471,//key2
+  61472,//key3
+  61473,//key4
+  61474,//key5
+  61475,//key6
+  61476,//key7
+  61477,//key8
+  61478,//key9
+  61538,//keypad 0
+  61529,//keypad 1
+  61530,//keypad 2
+  61531,//keypad 3
+  61532,//keypad 4
+  61533,//keypad 5
+  61534,//keypad 6
+  61535,//keypad 7
+  61536,//keypad 8
+  61537,//keypad 9
+  61484,//espace
+  61481,//echap
+  61497,//verr maj
+  61483,//tab
+  61480,//entrée
+  61516,//suppr
+  61482,//backspace
+  57345,//ctrl gauche
+  57360,//ctrl droite
+  57346,//maj gauche
+  57376,//maj droite
+  57348,//alt
+  57408,//alt gr
+  61522,//fleche haut
+  61521,//fleche bas
+  61520,//fleche gauche
+  61519,//fleche droite
+  1,//Clic gauche
+  2,//"Clic droit
+  3,//"Clic molette
+  4,//"Sensi souris +
+  5,//"Sensi souris -
+  61498,//f1
+  61499,//f2
+  61500,//f3
+  61501,//f4
+  61502,//f5
+  61503,//f6
+  61504,//f7
+  61505,//f8
+  61506,//f9
+  61507,//f10
+  61508,//f11
+  61509,//f12
+};
